@@ -1,0 +1,71 @@
+######################
+# Project Specific
+######################
+/src/main/webapp/content/css/main.css
+/target/www/**
+/src/test/javascript/coverage/
+/src/test/javascript/PhantomJS*/
+/src/test/*
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+.springBeans
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
+/src/main/resources/rebel.xml
+
+# External tool builders
+.externalToolBuilders/**
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+
+######################
+# Maven
+######################
+/log/
+/target/
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Directories
+######################
+/bin/
+/deploy/
